@@ -5,9 +5,9 @@ I really love Operational Research and maths solvers.
 This is my main project, a graphical mathematical linear solver :
 https://www.solvgraph.com
 The SolvGraph project is a hard giant project and is really time consuming.
-Feel free to add message in the solvgraph.com social network, or to contact me if you wish to collaborate on www.Solvgraph.com !
+Feel free to add message in the solvgraph.com social network, or to contact me if you wish to collaborate on www.solvgraph.com !
 
-Bonjour, Bienvenue sur mon GitHub, je ne publie pas car je travaille uniquement sur www.solvgraph.Com,
+Bonjour, Bienvenue sur mon GitHub, je ne publie pas car je travaille uniquement sur www.solvgraph.com,
 le solveur linéaire mathématique en mode graphique. N'hésitez pas à communiquer avec moi sur le réseau social de www.solvgraph.com,
 Je mets parfois le dépot python data sciences à jour ...
 
