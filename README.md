@@ -3,12 +3,12 @@
 I am a full stack developper and a linear programmer.
 I really love Operational Research and maths solvers.
 This is my main project, a graphical mathematical linear solver :
-
 http://www.solvgraph.com
-
 The SolvGraph project is a giant project .
-
 Feel free to add message in the solvgraph.com social network !
+
+Bonjour, Biencenue sur mon GitHub, je ne publie pas car je travaille uniquement sur www.solvgraph.Com,
+le solveur linéaire mathématique en mode graphique.
 
 <!--
 **nicolas15000/nicolas15000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
