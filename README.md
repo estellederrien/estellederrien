@@ -9,7 +9,7 @@ Feel free to add message in the solvgraph.com social network !
 
 Bonjour, Bienvenue sur mon GitHub, je ne publie pas car je travaille uniquement sur www.solvgraph.Com,
 le solveur linéaire mathématique en mode graphique. N'hésitez pas à communiquer avec moi sur le réseau social de www.solvgraph.com
-
+![Alt text](https://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png"Optional title")
 <!--
 **nicolas15000/nicolas15000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
