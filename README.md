@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a full stack developper and a linear programmer
+This is my main project :
+
+
 <!--
 **nicolas15000/nicolas15000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
