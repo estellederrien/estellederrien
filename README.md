@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack developper and a linear programmer.
+😄  I am a full stack developper and a linear programmer.
 I really love Operational Research and maths solvers.
 This is my main project, a graphical mathematical linear solver :
 https://www.solvgraph.com
@@ -9,18 +9,6 @@ Feel free to add message in the solvgraph.com social network !
 
 Bonjour, Bienvenue sur mon GitHub, je ne publie pas car je travaille uniquement sur www.solvgraph.Com,
 le solveur linéaire mathématique en mode graphique. N'hésitez pas à communiquer avec moi sur le réseau social de www.solvgraph.com
-![Alt text](https://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png"Optional title")
-<!--
-**nicolas15000/nicolas15000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
+![alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
