@@ -3,8 +3,8 @@
 I am a full stack developper and a linear programmer.
 I really love Operational Research and maths solvers.
 This is my main project, a graphical mathematical linear solver :
-http://www.solvgraph.com
-The SolvGraph project is a giant project .
+https://www.solvgraph.com
+The SolvGraph project is a hard giant project and is really time consuming.
 Feel free to add message in the solvgraph.com social network !
 
 Bonjour, Biencenue sur mon GitHub, je ne publie pas car je travaille uniquement sur www.solvgraph.Com,
