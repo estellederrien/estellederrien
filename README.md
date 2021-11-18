@@ -7,8 +7,8 @@ https://www.solvgraph.com
 The SolvGraph project is a hard giant project and is really time consuming.
 Feel free to add message in the solvgraph.com social network !
 
-Bonjour, Biencenue sur mon GitHub, je ne publie pas car je travaille uniquement sur www.solvgraph.Com,
-le solveur linéaire mathématique en mode graphique.
+Bonjour, Bienvenue sur mon GitHub, je ne publie pas car je travaille uniquement sur www.solvgraph.Com,
+le solveur linéaire mathématique en mode graphique. N'hésitez pas à communiquer avec moi sur le réseau social de www.solvgraph.com
 
 <!--
 **nicolas15000/nicolas15000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
