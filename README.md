@@ -7,9 +7,9 @@ https://www.solvgraph.com
 The SolvGraph project is a hard giant project and is really time consuming.
 Feel free to add message in the solvgraph.com social network, or to contact me if you wish to collaborate on www.solvgraph.com !
 
-Bonjour, Bienvenue sur mon GitHub, je ne publie pas car je travaille uniquement sur www.solvgraph.com,
+Bonjour, Bienvenue sur mon GitHub, je ne publie pas beaucoup car je travaille sur www.solvgraph.com,
 le solveur linéaire mathématique en mode graphique. N'hésitez pas à communiquer avec moi sur le réseau social de www.solvgraph.com,
-Je mets parfois le dépot python data sciences à jour ...
+Je mets parfois le dépot python data sciences à jour, et pourrait créer de nouveaux dépots  ...
 
 
 ![alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
