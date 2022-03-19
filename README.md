@@ -7,6 +7,9 @@ https://www.solvgraph.com
 The SolvGraph project is a hard giant project and is really time consuming.
 Feel free to add message in the solvgraph.com social network, or to contact me if you wish to collaborate on www.solvgraph.com !
 
+Soy desarrollador full stack y programador lineal. Me encanta la investigación operativa y los solucionadores de matemáticas. Este es mi proyecto principal, un solucionador lineal matemático gráfico: https://www.solvgraph.com El proyecto SolvGraph es un proyecto gigante y realmente requiere mucho tiempo. ¡Siéntete libre de agregar un mensaje en la red social solvgraph.com, o contactarme si deseas colaborar en www.solvgraph.com!
+
+
 Bonjour, Bienvenue sur mon GitHub, je ne publie pas beaucoup car je travaille sur www.solvgraph.com,
 le solveur linéaire mathématique en mode graphique. N'hésitez pas à communiquer avec moi sur le réseau social de www.solvgraph.com,
 Je mets parfois le dépot python data sciences à jour, et pourrait créer de nouveaux dépots  ...
