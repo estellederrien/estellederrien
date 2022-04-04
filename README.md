@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 😄  I am a full stack developper and a linear programmer.
-I really love Operational Research and maths solvers.
+I really love Operations Research (OR) and maths solvers.
 This is my main project, a graphical mathematical linear solver :
 https://www.solvgraph.com
 The SolvGraph project is a hard giant project and is really time consuming.
