@@ -2,7 +2,7 @@
 
 😄  I am a full stack developper and a linear and non linear solver programmer ( Excel and Python Pulp and Gekko real life optimizations).
 I really love Operations Research (OR) and maths solvers.
-This is my main project, a graphical mathematical linear solver :
+This is my main project, a graphical mathematical  solvers interface and solver:
 https://www.solvgraph.com
 The SolvGraph project is a hard giant project and is really time consuming.
 Feel free to add message in the solvgraph.com social network, or to contact me if you wish to collaborate on www.solvgraph.com !
