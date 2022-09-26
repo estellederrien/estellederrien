@@ -11,7 +11,7 @@ Soy desarrollador full stack y programador lineal. Me encanta la investigación 
 
 
 Bonjour, Bienvenue sur mon GitHub, je ne publie pas beaucoup car je travaille sur www.solvgraph.com,
-le solveur linéaire mathématique en mode graphique. N'hésitez pas à communiquer avec moi sur le réseau social de www.solvgraph.com,
+l'interface de solveurs mathématique en mode graphique linéaire et non linéaire. N'hésitez pas à communiquer avec moi sur le réseau social de www.solvgraph.com,
 Je mets parfois le dépot python data sciences à jour, et pourrait créer de nouveaux dépots  ...
 
 
