@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄  I am a full stack developper and a linear and non linear solver programmer ( Excel and Python Pulp and Gekko).
+😄  I am a full stack developper and a linear and non linear solver programmer ( Excel and Python Pulp and Gekko real life optimizations).
 I really love Operations Research (OR) and maths solvers.
 This is my main project, a graphical mathematical linear solver :
 https://www.solvgraph.com
