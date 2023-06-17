@@ -7,7 +7,7 @@ https://www.solvgraph.com
 
 Hola, soy ingeniero de investigación operativa matemática con los solucionadores Cplex, Gekko, Pulp, Excel, Cvxopt... También hago desarrollo de pila completa.Mi aplicación es solvgraph.com.
 
-Bonjour, Bienvenue sur mon GitHub, mon principal dépot est en Français : Python Data Science, plus bas. Je fais aussi du dev full stack . Mon application est SolvGraph.com
+Bonjour, Bienvenue sur mon GitHub, mon principal dépot est en Français : Python Data Science, plus bas. Je fais aussi du dev full stack . Mon application est SolvGraph.com. Je mets souvent à jour mon dépot Python Data Sciences avec des notebooks en recherche opérationnelle.
 
 Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cplex, Gekko, Pulp, Excel, Cvxopt ... Ich mache auch Full-Stack-Entwicklung.
 
