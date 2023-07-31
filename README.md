@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄  I am an operations research addict( Excel and Python Cplex, Cvxopt , Pulp and Gekko real life optimizations).
+😄  I am an operations research analyst( Excel and Python Cplex, Cvxopt , Pulp and Gekko real life optimizations).
 I really love Operations Research (OR) and maths solvers. I also do Full stack devs.
 This is my main actual project, a graphical mathematical solvers interface and solver:
 https://www.solvgraph.com
