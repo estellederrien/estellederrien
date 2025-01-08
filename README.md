@@ -4,6 +4,8 @@
 I really love Operations Research (OR) and maths solvers. I also do Full stack devs including drags and drops.
 This is my main actual project, a graphical mathematical solvers interface and solver:
 https://www.solvgraph.com
+
+My actual 2025 tutorial I am working on:
 [Matching a Mathematical model to a Python solver code INTRODUCTION TUTORIAL](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/01.%20Matching%20a%20mathematical%20model%20to%20a%20solver%20code.ipynb)
 
 Hola, soy ingeniero de investigación operativa matemática con los solucionadores Cplex, Gekko, Pulp, Excel, Cvxopt... También hago desarrollo de pila completa.Mi aplicación es solvgraph.com.yo tambien compongo musica.
