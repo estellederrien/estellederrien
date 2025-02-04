@@ -10,6 +10,8 @@ My actual 2025 tutorial I am working on:
 
 Hola, soy ingeniero de investigación operativa matemática con los solucionadores Cplex, Gekko, Pulp, Excel, Cvxopt... También hago desarrollo de pila completa.Mi aplicación es solvgraph.com.yo tambien compongo musica.
 
+Bonjour, aimant beaucoup la recherche opérationnelle, j'axe mes études dans ce domaine, je peux également assurer des devs avec des drags and drops et de la data science en back end.
+
 Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cplex, Gekko, Pulp, Excel, Cvxopt ... Ich mache auch Full-Stack-Entwicklung.
 
 ![alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
