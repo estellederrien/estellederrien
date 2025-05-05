@@ -11,6 +11,10 @@ My actual 2025 study:
 and 
 [Matching a Mathematical model to a Python solver code , An Introduction Study Part 2](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Linear%20combinatorial%20optimizations%20-%20part%202%20.ipynb)
 
+and 
+
+[Non linear opts](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/03.%20Non%20linear%20combinatorial%20optimizations.ipynb)
+
 
 Hola, soy ingeniero de investigación operativa matemática con los solucionadores Cplex, Gekko, Pulp, Excel, Cvxopt... También hago desarrollo de pila completa.Mi aplicación es solvgraph.com.yo tambien compongo musica.
 
