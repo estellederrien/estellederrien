@@ -16,6 +16,9 @@ Some of my actual 2025 studies:
 
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="50" height="50"></img> [Non linear optimizations](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/03.%20Non%20linear%20combinatorial%20optimizations.ipynb)
 
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="50" height="50"></img> [New : 04. Greedy - divide and conquer - dynamics algorithms](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/04.%20Greedy%20-%20divide%20and%20conquer%20-%20dynamics%20algorithms.ipynb)
+
+
 
 Hola, soy ingeniero de investigación operativa matemática con los solucionadores Cplex, Gekko, Pulp, Excel, Cvxopt... También hago desarrollo de pila completa.Mi aplicación es solvgraph.com.yo tambien compongo musica.
 
