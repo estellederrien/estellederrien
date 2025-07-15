@@ -33,7 +33,7 @@ Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cp
 我是一名全栈开发人员和线性程序员。我真的很喜欢运筹学和数学求解器。这是我的主要项目，图形数学线性求解器：https://www.solvgraph.com SolvGraph 项目是一个艰巨的巨型项目，非常耗时。随意在 solvgraph.com 社交网络中添加消息！
 <div align="left">
       <a href="https://www.youtube.com/watch?v=WcWn_YIT7wI">
-         <img src="https://img.youtube.com/vi/WcWn_YIT7wI/0.jpg" style="width:100%;">
+         <img src="[https://img.youtube.com/vi/WcWn_YIT7wI/0.jpg](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/img/solv.png)" style="width:100%;">
       </a>
 </div>
 
