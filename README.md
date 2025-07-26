@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 😄  I am a operations research analyst( Excel and Python Cplex, Cvxopt , Pulp and Gekko real life optimizations).
-I really like Operations Research (OR) and maths solvers, I'm doing my best to step up my level, as often as possible. I also do Full stack devs including drags and drops.
+I also do Full stack devs including drags and drops.
 This is my main actual project, a graphical mathematical solvers interface and solver:
 https://www.solvgraph.com
 
