@@ -24,7 +24,7 @@ Hola, soy ingeniero de investigación operativa matemática con los solucionador
 
 Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cplex, Gekko, Pulp, Excel, Cvxopt ... Ich mache auch Full-Stack-Entwicklung.
 
-Bonjour, recherche opérationnelle, dev full stack, data sciences, mes notebooks sont en Anglais mais je les traduirait automatiquement plus tard.
+Bonjour, recherche opérationnelle, dev full stack, data sciences, mes notebooks sont en désormais en Anglais mais je les traduirais automatiquement plus tard.
 
 ![alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
 
