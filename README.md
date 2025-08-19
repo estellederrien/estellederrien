@@ -22,7 +22,10 @@ Some of my actual 2025 studies:
 ![alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
 
 
-我是一名全栈开发人员和线性程序员。我真的很喜欢运筹学和数学求解器。这是我的主要项目，图形数学线性求解器：https://www.solvgraph.com SolvGraph 项目是一个艰巨的巨型项目，非常耗时。随意在 solvgraph.com 社交网络中添加消息！
+我是一名运筹学分析师（擅长 Excel 和 Python Cplex、Cvxopt、Pulp 和 Gekko 实际优化）。
+我也从事全栈开发，包括拖放操作。
+这是我的主要实际项目，一个图形化数学求解器界面和求解器。
+在中国和亚洲有售
 <div align="center">
       <a href="https://www.youtube.com/watch?v=WcWn_YIT7wI">
          <img src="https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/img/solv2.png" style="width:600px;height:300px">
