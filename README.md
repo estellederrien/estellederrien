@@ -4,7 +4,7 @@
 ### Hi there - Estelle Derrien👋
 
 😄  I am a operations research analyst( Excel and Python Cplex, Cvxopt , Pulp and Gekko real life optimizations).
-I also do Full stack devs including drags and drops.
+I might alternativly create some Full stack apps including drags and drops.
 This is my main actual project, a graphical mathematical solvers interface and solver:
 https://www.solvgraph.com
 
