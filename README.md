@@ -49,10 +49,6 @@ Hola, soy ingeniero de investigación operativa matemática con los solucionador
 Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cplex, Gekko, Pulp, Excel, Cvxopt ... Ich mache auch Full-Stack-Entwicklung.
 
 Bonjour, mes notebooks seront éventuellement traduits en Français d'ici un an, j'ai du supprimer les anciens qui n'étaient plus d'actualité. A la recherche d'opportunités au niveau mondial, j'ai décidé de tout
-faire en Anglais, cependant, je vais traduire automatiquement avec l'outil approprié dès que c'est à peu prêt fini. 
-
-Vous pouvez déjà traduire mes notebooks en cours de création, en utilisant le logiciel python Jupiter notebook. Le notebook que je dois absolument faire est " Optimisations non linéaires", qui sera vraiment utile sur des problèmes réels, je suis en train de repérer des tas d'exemples concrets, c'est vraiment le type d'optimisations à faire pour avoir un profil intéressant. 
-
-Pour tout finir, y compris les ODES, ca va prendre un sacré bout de temps. C'est très agréable de faire des notebooks en Français, mais, c'est plus simple pour moi pour l'instant de faire en Anglais, puis de traduire automatiquement ensuite.
+faire en Anglais, cependant, je vais traduire automatiquement avec l'outil approprié dès que c'est à peu prêt fini. Vous pouvez déjà traduire mes notebooks en cours de création, en utilisant le logiciel python Jupiter notebook.
 
 
