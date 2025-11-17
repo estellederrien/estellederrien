@@ -48,6 +48,5 @@ Hola, soy ingeniero de investigación operativa matemática con los solucionador
 
 Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cplex, Gekko, Pulp, Excel, Cvxopt ... Ich mache auch Full-Stack-Entwicklung.
 
-Bonjour, je traduits mes notebooks en Français dès que possible, il est possible de les traduire dans jupiter notebook . J'ai une phase d'études d'Etls en ce moment qui débute.
 
 
