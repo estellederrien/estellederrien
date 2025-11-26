@@ -48,5 +48,6 @@ Hola, soy ingeniero de investigación operativa matemática con los solucionador
 
 Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cplex, Gekko, Pulp, Excel, Cvxopt ... Ich mache auch Full-Stack-Entwicklung.
 
+Voici la méthode rapide pour traduire les notebooks : Exporter le notebook sous html dans l'application jupiter, puis ouvrir le notebook sous chrome et cliquer sur traduire.
 
 
