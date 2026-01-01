@@ -3,7 +3,7 @@
 
 ### Hi there - Estelle Derrien👋
 
-😄  I am a operations research analyst( Excel and Python Cplex, Cvxopt , Pulp and Gekko real life optimizations).
+😄  I am a operations research consultant( Excel and Python Cplex, Cvxopt , Pulp and Gekko real life optimizations).
 I might alternativly create some Full stack apps including drags and drops.
 This is my main actual project, a graphical mathematical solvers interface and solver:
 https://www.solvgraph.com
