@@ -48,5 +48,7 @@ Hola, soy ingeniero de investigación operativa matemática con los solucionador
 
 Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cplex, Gekko, Pulp, Excel, Cvxopt ... Ich mache auch Full-Stack-Entwicklung.
 
+Bonjour, la méthode pour traduire un notebook python, est de l'exporter au format HTML avec le logiciel Jupiter Notebook, puis de le traduire dans chrome en faisant un click droit.
+
 
 
