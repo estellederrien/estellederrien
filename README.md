@@ -51,7 +51,7 @@ Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cp
 Bonjour, la méthode pour traduire un notebook python, est de l'exporter au format HTML avec le logiciel Jupiter Notebook, puis de le traduire dans chrome en faisant un click droit.
 
 
-<b>Latest news :</b>
+### <b>Latest news :</b>
 
 06 01 2025 : ChatGpt AI and Gemini AI will permit me to finish my ODE differentials equations notebook real fast, Most of the Supply chain metrics, Probabilities, Monte Carlo simuations, Markov Chains, Robotics diff equations, M.L maths, can now be instantly A.I summarized, also including the python code. I also have a LinkedIn Abdel Yezza great Math model Machine learning recapitulative . A.I will also help for my 'Physical measures' directory ( Electricity, resistance of materials...), and DCG Comptability as well . Gemini A.I summarize way faster than me, then I own all of the school books to verify it's ok . It leads me to create any data science app way much faster. About O.R, I do not know what it does yet, but I doubt it's ok. O.R are prescriptives maths, so that's what I prefer.
 
