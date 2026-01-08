@@ -59,8 +59,6 @@ It's way faster than studying from tons of books, but I'll verify solutions and 
 <br><br>
 ES : También terminaré mis cuadernos O.R (directorio de optimizaciones) usando ChatGpt y Gemini, lo acabo de probar hoy por primera vez, y es bueno, por ejemplo, un código de empaquetado de bin 3d lineal usando Pulp, todo explicado, en idioma francés.<br>
 DE : Ich werde auch meine O.R.-Notebooks (Optimierungsverzeichnis) mit ChatGpt und Gemini fertigstellen. Ich habe es heute zum ersten Mal getestet, und es funktioniert gut. Zum Beispiel ein linearer 3D-Bin-Packing-Code mit Pulp, alles auf Französisch erklärt.<br>
-
-
 FR : Je vais également terminer mes notebooks O.R (répertoire d'optimisations) en utilisant ChatGpt et Gemini. Je viens de le tester aujourd'hui pour la première fois, et c'est bien. Par exemple, un code de bin packing 3D linéaire utilisant Pulp, le tout expliqué en français.
 <br>
 
@@ -74,7 +72,6 @@ ES : ChatGpt AI y Gemini AI me permitirán finalizar mi cuaderno de ecuaciones d
 DE : 
 ChatGpt AI und Gemini AI ermöglichen es mir, mein Notebook zu Differentialgleichungen fertigzustellen. Die meisten Kennzahlen der Lieferkette in den Bereichen Logistik, Wahrscheinlichkeiten, Monte-Carlo-Simulationen, Markov-Ketten, Differentialgleichungen in der Robotik und Berechnungen des maschinellen Lernens lassen sich nun mithilfe von KI sofort zusammenfassen und in Python-Code integrieren.
 <br>
-
 FR : ChatGpt AI et Gemini AI me permettront de finaliser mon notebook d'équations différentielles . La plupart des indicateurs de la chaîne d'approvisionnement en logistique, des probabilités, des simulations de Monte Carlo, des chaînes de Markov, des équations différentielles de robotique et des calculs d'apprentissage automatique pourront désormais être instantanément résumés par l'IA, y compris le code Python.
 
 
