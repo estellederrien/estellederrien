@@ -53,18 +53,9 @@ Bonjour, la méthode pour traduire un notebook python, est de l'exporter au form
 
 ### <b>Latest news :</b>
 
-08 01 2026 : I will also finish my O.R notebooks (optimizations directory) using ChatGpt and Gemini, I have just tested it today for the first time, and It's good, for exemple, a linear 3d bin packing code using Pulp, all explained, in French language.
-Another example is a non linear item volume optimization using Scipy, directly given by Chat GPT, another is a linear project scheduling with precedence constraints using pulp. What is good, is that I am now able to understand, and re create the math model, if ChatGpt does not create it in Latex , I am also able to test the furnished O.R codes. And yes, I should dev SolvGraph 100 times faster using theses O.R generated codes.
-It's way faster than studying from tons of books, but I'll verify solutions and compare... as always !
-<br><br>
-ES : También terminaré mis cuadernos O.R (directorio de optimizaciones) usando ChatGpt y Gemini, lo acabo de probar hoy por primera vez, y es bueno, por ejemplo, un código de empaquetado de bin 3d lineal usando Pulp, todo explicado, en idioma francés.<br>
-DE : Ich werde auch meine O.R.-Notebooks (Optimierungsverzeichnis) mit ChatGpt und Gemini fertigstellen. Ich habe es heute zum ersten Mal getestet, und es funktioniert gut. Zum Beispiel ein linearer 3D-Bin-Packing-Code mit Pulp, alles auf Französisch erklärt.<br>
-FR : Je vais également terminer mes notebooks O.R (répertoire d'optimisations) en utilisant ChatGpt et Gemini. Je viens de le tester aujourd'hui pour la première fois, et c'est bien. Par exemple, un code de bin packing 3D linéaire utilisant Pulp, le tout expliqué en français.
-<br>
 
-
-
-06 01 2026 : ChatGpt AI and Gemini AI will permit me to finish my ODE differentials equations notebook , Most of the Supply chain metrics, Probabilities, Monte Carlo simuations, Markov Chains, Robotics diff equations, M.L maths, can now be instantly A.I summarized, also including the python code. I also have a LinkedIn Abdel Yezza great Math model Machine learning recapitulative . A.I will also help for my 'Physical measures' directory ( Electricity, resistance of materials...), and DCG Comptability as well . Gemini A.I summarize way faster than me, then I own all of the school books to verify it's ok . It leads me to create any data science app way much faster. About O.R, ChatGtp and Gemini seems to provide good codes. O.R are prescriptives maths, so that's what I prefer.
+06 01 2026 : ChatGpt AI and Gemini AI will permit me to finish my ODE differentials equations notebook , Most of the Supply chain metrics, Probabilities, Monte Carlo simuations, Markov Chains, Robotics diff equations, M.L maths, can now be instantly A.I summarized, also including the python code. I also have a LinkedIn Abdel Yezza great Math model Machine learning recapitulative . A.I will also help for my 'Physical measures' directory ( Electricity, resistance of materials...), and DCG Comptability as well . Gemini A.I summarize way faster than me, then I own all of the school books to verify it's ok . It leads me to create any data science app way much faster. About O.R, ChatGtp and Gemini seems to provide good codes. O.R are prescriptives maths, so that's what I prefer.I have just tested R.O using AI today for the first time, and It's good, for exemple, a linear 3d bin packing code using Pulp, all explained, in French language.
+Another example is a non linear item volume optimization using Scipy, directly given by Chat GPT, another is a linear project scheduling with precedence constraints using pulp.
 
 <br><br>
 ES : ChatGpt AI y Gemini AI me permitirán finalizar mi cuaderno de ecuaciones diferenciales. La mayoría de los indicadores de la cadena de suministro en logística, probabilidades, simulaciones de Monte Carlo, cadenas de Markov, ecuaciones diferenciales robóticas y cálculos de aprendizaje automático ahora pueden resumirse instantáneamente mediante IA e incluyen código Python.
@@ -72,7 +63,7 @@ ES : ChatGpt AI y Gemini AI me permitirán finalizar mi cuaderno de ecuaciones d
 DE : 
 ChatGpt AI und Gemini AI ermöglichen es mir, mein Notebook zu Differentialgleichungen fertigzustellen. Die meisten Kennzahlen der Lieferkette in den Bereichen Logistik, Wahrscheinlichkeiten, Monte-Carlo-Simulationen, Markov-Ketten, Differentialgleichungen in der Robotik und Berechnungen des maschinellen Lernens lassen sich nun mithilfe von KI sofort zusammenfassen und in Python-Code integrieren.
 <br>
-FR : ChatGpt AI et Gemini AI me permettront de finaliser mon notebook d'équations différentielles . La plupart des indicateurs de la chaîne d'approvisionnement en logistique, des probabilités, des simulations de Monte Carlo, des chaînes de Markov, des équations différentielles de robotique et des calculs d'apprentissage automatique pourront désormais être instantanément résumés par l'IA, y compris le code Python.
+
 
 
 
