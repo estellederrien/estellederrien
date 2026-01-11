@@ -62,8 +62,8 @@ DE :
 ChatGpt AI und Gemini AI ermöglichen es mir, mein Notebook zu Differentialgleichungen fertigzustellen. Die meisten Kennzahlen der Lieferkette in den Bereichen Logistik, Wahrscheinlichkeiten, Monte-Carlo-Simulationen, Markov-Ketten, Differentialgleichungen in der Robotik und Berechnungen des maschinellen Lernens lassen sich nun mithilfe von KI sofort zusammenfassen und in Python-Code integrieren.
 <br><br>
 ES : ChatGpt AI y Gemini AI me permitirán finalizar mi cuaderno de ecuaciones diferenciales. La mayoría de los indicadores de la cadena de suministro en logística, probabilidades, simulaciones de Monte Carlo, cadenas de Markov, ecuaciones diferenciales robóticas y cálculos de aprendizaje automático ahora pueden resumirse instantáneamente mediante IA e incluyen código Python.
-<br>
-FR : J'ai testé aujourd'hui pour la première fois la recherche opérationnelle avec l'IA, et ça a l'air de fonctionner. Par exemple, j'ai obtenu un code de bin packing 3D linéaire avec Pulp, le tout expliqué en français. Autre exemple : une optimisation non linéaire du volume d'un objet avec Scipy, directement fournie par Chat GPT ; et un autre encore : une planification de projet linéaire avec contraintes de précédence, toujours avec Pulp. Il a aussi l'air de générer les modèles mathématiques, donc je continue, mais en effectuer des contrôles comparatifs.
+<br><br>
+FR : J'ai testé aujourd'hui pour la première fois la recherche opérationnelle avec l'IA, et ça a l'air de fonctionner. Par exemple, j'ai obtenu un code de bin packing 3D linéaire avec Pulp, le tout expliqué en français. Autre exemple : une optimisation non linéaire du volume d'un objet avec Scipy, directement fournie par Chat GPT ; et un autre encore : une planification de projet linéaire avec contraintes de précédence, toujours avec Pulp. Il a aussi l'air de générer les modèles mathématiques, donc je continue, mais en effectuer des contrôles comparatifs. CLaude a aussi l'air de fonctionner, donc je continue avec ça, en plus de mes livres , et surtout sur le non linéaire désormais.
 
 
 
