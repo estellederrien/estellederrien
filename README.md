@@ -58,11 +58,12 @@ Bonjour, la méthode pour traduire un notebook python, est de l'exporter au form
 Another example is a non linear item volume optimization using Scipy, directly given by Chat GPT, another is a linear project scheduling with precedence constraints using pulp.
 
 <br><br>
-ES : ChatGpt AI y Gemini AI me permitirán finalizar mi cuaderno de ecuaciones diferenciales. La mayoría de los indicadores de la cadena de suministro en logística, probabilidades, simulaciones de Monte Carlo, cadenas de Markov, ecuaciones diferenciales robóticas y cálculos de aprendizaje automático ahora pueden resumirse instantáneamente mediante IA e incluyen código Python.
-<br>
 DE : 
 ChatGpt AI und Gemini AI ermöglichen es mir, mein Notebook zu Differentialgleichungen fertigzustellen. Die meisten Kennzahlen der Lieferkette in den Bereichen Logistik, Wahrscheinlichkeiten, Monte-Carlo-Simulationen, Markov-Ketten, Differentialgleichungen in der Robotik und Berechnungen des maschinellen Lernens lassen sich nun mithilfe von KI sofort zusammenfassen und in Python-Code integrieren.
+<br><br>
+ES : ChatGpt AI y Gemini AI me permitirán finalizar mi cuaderno de ecuaciones diferenciales. La mayoría de los indicadores de la cadena de suministro en logística, probabilidades, simulaciones de Monte Carlo, cadenas de Markov, ecuaciones diferenciales robóticas y cálculos de aprendizaje automático ahora pueden resumirse instantáneamente mediante IA e incluyen código Python.
 <br>
+
 
 
 
