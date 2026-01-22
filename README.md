@@ -17,7 +17,7 @@ Read Some of my actual 2025 studies (Python notebooks):
 
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img> [Greedy - divide and conquer - dynamics algorithms](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/04.%20Greedy%20-%20divide%20and%20conquer%20-%20dynamics%20algorithms.ipynb)
 
-
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img> [Optimizations under uncertainty](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/07.%20Optimizations%20under%20uncertainty.ipynb)
 
 
 ![alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
