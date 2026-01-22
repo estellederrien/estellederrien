@@ -8,7 +8,7 @@ I might alternativly create some Full stack apps including drags and drops.
 This is my main actual project, a graphical mathematical solvers interface and solver:
 https://www.solvgraph.com
 
-Some of my actual 2025 studies:
+Read Some of my actual 2025 studies (Python notebooks):
 
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img>
 [Matching a Mathematical model to a Python solver code , An Introduction Study](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Linear%20combinatorial%20optimizations%20-%20Matching%20a%20mathematical%20model%20to%20a%20solver%20code.ipynb) <img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img>  [ Part 2](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Linear%20combinatorial%20optimizations%20-%20part%202%20.ipynb)<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img> [ Part 3](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Linear%20combinatorial%20optimizations%20-%20part%203%20.ipynb)
