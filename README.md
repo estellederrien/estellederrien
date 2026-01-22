@@ -54,6 +54,8 @@ Bonjour, la méthode pour traduire un notebook python, est de l'exporter au form
 ### <b>Latest news :</b>
 
 22 01 2026 :  So excited to soon start my new notebook : Optimizations under uncertainty, with probability distributions, and the help of AI examples ( And books).
+
+<br>
 06 01 2026 : Deepseek, ChatGpt and Gemini AI will permit me to finish my ODE differentials equations notebook , Most of the Supply chain metrics, Probabilities, Monte Carlo simuations, Markov Chains, Robotics diff equations, M.L maths, can now be instantly A.I summarized, also including the python code.  A.I will also help for my 'Physical measures' directory ( Electricity, resistance of materials...), and DCG Comptability as well . Gemini A.I summarize way faster than me, then I own all of the school books to verify it's ok . It leads me to create any data science app way much faster. About O.R, ChatGtp and Gemini seems to provide good codes. O.R are prescriptives maths, so that's what I prefer.I have just tested R.O using AI today for the first time, and It's good, for exemple, a linear 3d bin packing code using Pulp, all explained, in French language.
 Another example is a non linear item volume optimization using Scipy, directly given by Chat GPT, another is a linear project scheduling with precedence constraints using pulp.
 
