@@ -10,19 +10,21 @@ https://www.solvgraph.com
 
 Some of my actual 2025 studies:
 
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="50" height="50"></img>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img>
 [Matching a Mathematical model to a Python solver code , An Introduction Study](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Linear%20combinatorial%20optimizations%20-%20Matching%20a%20mathematical%20model%20to%20a%20solver%20code.ipynb)
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="50" height="50"></img>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img>
 [Matching a Mathematical model to a Python solver code , An Introduction Study Part 2](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Linear%20combinatorial%20optimizations%20-%20part%202%20.ipynb)
 
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="50" height="50"></img>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img>
 [Matching a Mathematical model to a Python solver code , An Introduction Study Part 3](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/02.%20Linear%20combinatorial%20optimizations%20-%20part%203%20.ipynb)
 
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="50" height="50"></img> [Non linear optimizations](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/03.%20Non%20linear%20combinatorial%20optimizations.ipynb)
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img> [Non linear optimizations Part 1](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/03.%20Non%20linear%20combinatorial%20optimizations%20-%20part%201.ipynb) [Non linear optimizations Part 2](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/03.%20Non%20linear%20combinatorial%20optimizations%20-%20part%202.ipynb)
 
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="50" height="50"></img> [New : 04. Greedy - divide and conquer - dynamics algorithms](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/04.%20Greedy%20-%20divide%20and%20conquer%20-%20dynamics%20algorithms.ipynb)
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img> [Greedy - divide and conquer - dynamics algorithms](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/04.%20Greedy%20-%20divide%20and%20conquer%20-%20dynamics%20algorithms.ipynb)
 
 
 ![alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
