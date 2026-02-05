@@ -5,7 +5,7 @@
 
 😄  I am a operations research consultant( Excel and Python Cplex, Cvxopt , Pulp ,Gurobi, Gekko etc... real life optimizations).
 I might alternativly create some Full stack apps including drags and drops.
-This is my main actual project,engineered by me, a graphical mathematical solvers interface and solver:
+This is my main actual project,engineered, stylized and coded by me in vueJs-Python-Nosql, a graphical mathematical solvers interface and solver:
 https://www.solvgraph.com
 
 Read Some of my actual 2025 studies (Python notebooks):
