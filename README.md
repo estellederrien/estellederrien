@@ -48,7 +48,7 @@ Bonjour, la méthode pour traduire un notebook python, est de l'exporter au form
 
 ### <b>Latest news :</b>
 
-20 02 2026 : Je vais ajouter des notebooks en Français, différents de ceux en Anglais, afin de tester comment ça se comporte avec un autre language . Pour l'instant, je teste toujours l'A.I.
+20 02 2026 : Je vais ajouter des notebooks en Français, différents de ceux en Anglais, afin de tester comment ça se comporte avec un autre language . Pour l'instant, je teste toujours l'A.I. Priorité sur optimisations quadratiques, eq différentielles,et équations quadratiques. J'aimerais refaire mon notebook " Probability laws" avec l'A.I afin de voir ce que ça dit.
 
 22 01 2026 :  So excited to soon start my new notebook : Optimizations under uncertainty, with probability distributions, and the help of AI examples ( And books). Let's also finish the flow shop and jobs shops optimizations examples given by AI ( Let's do some comparisons to books codes) in my linear notebook part 3. Please notice that I use IA only to generate examples, I don't use it to solve real problems, because I've heard about the hallucination problem, and some maths resolution problems. I also now got the multiple knapsacks cargos loading optimization example, missing from my part 1 linear notebook. Let's do more Minimum and maximum flows optimizations in my notebook 1, using AI this time. And I also got a Project tasks scheduling with ressources limits, that's cool.
 
