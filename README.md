@@ -3,7 +3,7 @@
 
 ### Hi there - Estelle Derrien👋
 
-😄  I am a operations research consultant( Excel and Python Cplex, Cvxopt , Pulp ,Gurobi, Gekko etc... real life optimizations).
+😄  I am a operations research consultant( Excel and Docplex,Gekko Pulp, etc... real world optimizations).
 I might alternativly create some Full stack apps including drags and drops.
 This is my main actual project,engineered, stylized and coded by me in vueJs-Python-Nosql, a graphical mathematical solvers interface and solver:
 https://www.solvgraph.com
