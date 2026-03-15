@@ -45,7 +45,7 @@ Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cp
 
 
 ### <b>Latest news :</b>
-15 03 2026 : Bonjour, Mes notebooks sont désormais en Anglais, car c'est tellement facile de traduire désormais avec chatGpt et consorts que je fais en Anglais pour avoir plus d'opportunités. Cependant, j'aime aussi les rédiger en Français. 
+15 03 2026 : Bonjour, Mes notebooks sont désormais en Anglais, car c'est tellement facile de traduire désormais avec chatGpt et consorts que je fais en Anglais pour avoir plus d'opportunités. Cependant, j'aime aussi les rédiger en Français. L'I.A apporte une facilité considérable dans l'acquisition de connaissances, c'est immensément plus rapide ( et clair) que de parcourir des livres, parfois obscurs, cependant, il est bon de posséder les livres scolaires afin de vérifier certains codes, en particulier en R.O.
 
 22 01 2026 :  So excited to soon start my new notebook : Optimizations under uncertainty, with probability distributions, and the help of AI examples ( And books). Let's also finish the flow shop and jobs shops optimizations examples given by AI ( Let's do some comparisons to books codes) in my linear notebook part 3. Please notice that I use IA only to generate examples, I don't use it to solve real problems, because I've heard about the hallucination problem, and some maths resolution problems. I also now got the multiple knapsacks cargos loading optimization example, missing from my part 1 linear notebook. Let's do more Minimum and maximum flows optimizations in my notebook 1, using AI this time. And I also got a Project tasks scheduling with ressources limits, that's cool.<br>
 <br>
