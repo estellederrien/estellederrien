@@ -54,8 +54,6 @@ DeepSeek, ChatGpt AI und Gemini AI ermöglichen es mir, mein Notebook zu Differe
 ES : DeepSeek, ChatGpt AI y Gemini AI me permitirán finalizar mi cuaderno de ecuaciones diferenciales. La mayoría de los indicadores de la cadena de suministro en logística, probabilidades, simulaciones de Monte Carlo, cadenas de Markov, ecuaciones diferenciales robóticas y cálculos de aprendizaje automático ahora pueden resumirse instantáneamente mediante IA e incluyen código Python.
 <br><br>
 
-FR : Bonjour, Mes notebooks sont désormais en Anglais, car c'est tellement facile de traduire désormais avec chatGpt et consorts que je fais en Anglais pour avoir plus d'opportunités. Cependant, j'aime aussi les rédiger en Français. L'I.A apporte une facilité considérable dans l'acquisition de connaissances, c'est immensément plus rapide ( et clair) que de parcourir des livres, parfois obscurs, cependant, il est bon de posséder les livres scolaires afin de vérifier certains codes, en particulier en R.O.
-
 
 
 
