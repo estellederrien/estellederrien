@@ -45,6 +45,8 @@ Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cp
 
 
 ### <b>Latest news :</b>
+29 03 2026 : Création de mon autre gros dépot en Français : Notebooks Sciences générales simplifiées avec l'IA : Simulations monte carlo, Optimisations Quadratiques, Equations différentielles , Thermodynamique , Convergences etc ...
+
 22 01 2026 :  So excited to soon start my new notebook : Optimizations under uncertainty, with probability distributions, and the help of AI examples ( And books). Let's also finish the flow shop and jobs shops optimizations examples given by AI ( Let's do some comparisons to books codes) in my linear notebook part 3. Please notice that I use IA only to generate examples, I don't use it to solve real problems, because I've heard about the hallucination problem, and some maths resolution problems. I also now got the multiple knapsacks cargos loading optimization example, missing from my part 1 linear notebook. Let's do more Minimum and maximum flows optimizations in my notebook 1, using AI this time. And I also got a Project tasks scheduling with ressources limits, that's cool.<br>
 <br>
 
