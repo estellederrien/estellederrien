@@ -39,7 +39,7 @@ Read Some of my actual 2026 studies (Python notebooks):
 
 ### <b>Latest news :</b>
 
-2026-2027 : Now actively looking for onsite jobs : 
+2026-2027 : Now actively looking for onsite jobs, and restricting my applications to only 2 places, please trust ! : 
 
 MYANMAR:
 
