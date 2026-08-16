@@ -46,6 +46,8 @@ Read Some of my actual 2026 studies (Python notebooks):
 안녕하세요, 취업 지원 때문에 이제부터 버마어(미얀마어)와 한국어로 글을 올리겠습니다.
 안녕하세요, 저는 주로 책으로 공부하기 때문에 현재는 글을 많이 올리지 않고 있습니다.
 
+Sending applications to Myanmar.
+
 
 
 
