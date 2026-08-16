@@ -37,23 +37,23 @@ Read Some of my actual 2026 studies (Python notebooks):
 </div>
 
 
-Hola, soy ingeniero de investigación operativa matemática con los solucionadores Cplex, Gekko, Pulp, Excel, Cvxopt... También hago desarrollo de pila completa.Mi aplicación es solvgraph.com.yo tambien compongo musica.
-
-
-
-
-こんにちは、私は Cplex、Gekko、Pulp、Excel、Cvxopt ソルバーを使用する数学演算リサーチ エンジニアです...フル スタック開発も行っています。私のアプリケーションは solvgraph.com です。
-
-Hallo, ich bin ein mathematischer Betriebsforschungsingenieur mit den Lösern Cplex, Gekko, Pulp, Excel, Cvxopt ... Ich mache auch Full-Stack-Entwicklung.
-
-
 ### <b>Latest news :</b>
 
-DE : 
-DeepSeek, ChatGpt AI und Gemini AI ermöglichen es mir, mein Notebook zu Differentialgleichungen fertigzustellen. Die meisten Kennzahlen der Lieferkette in den Bereichen Logistik, Wahrscheinlichkeiten, Monte-Carlo-Simulationen, Markov-Ketten, Differentialgleichungen in der Robotik und Berechnungen des maschinellen Lernens lassen sich nun mithilfe von KI sofort zusammenfassen und in Python-Code integrieren.
-<br><br>
-ES : DeepSeek, ChatGpt AI y Gemini AI me permitirán finalizar mi cuaderno de ecuaciones diferenciales. La mayoría de los indicadores de la cadena de suministro en logística, probabilidades, simulaciones de Monte Carlo, cadenas de Markov, ecuaciones diferenciales robóticas y cálculos de aprendizaje automático ahora pueden resumirse instantáneamente mediante IA e incluyen código Python.
-<br><br>
+မင်္ဂလာပါ၊ ကျွန်ုပ်၏အလုပ်လျှောက်လွှာကြောင့် Birman (မြန်မာ) နှင့် ကိုရီးယားဘာသ.
+မင်္ဂလာပါ ကျွန်တော်ကတော့ စာအုပ်တွေကနေ လေ့လာတာများတာမို့ လောလောဆယ်တော့ အများကြီး မထုတ်ဝေဖြစ်သေးပါဘူး။
+
+안녕하세요, 취업 지원 때문에 이제부터 버마어(미얀마어)와 한국어로 글을 올리겠습니다.
+안녕하세요, 저는 주로 책으로 공부하기 때문에 현재는 글을 많이 올리지 않고 있습니다.
+
+
+
+
+
+
+
+
+
+
 
 
 
