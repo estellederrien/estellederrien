@@ -3,7 +3,7 @@
 
 ### Hi there - Estelle Derrien👋
 
-😄  I am a medium range operations research consultant( Python Docplex and Excel,Gekko, Pulp etc... real world optimizations, agricultural, construction, project management, costs reductions, simulations, incertitude etc ...).
+😄  I am a medium range operations research consultant focused on real world problems (  agricultural, construction, project management, bin packing, costs reductions, simulations, incertitude etc ...), I mostly use DocPlex, Excel solvers, Python Pulp, Geko etc...
 I might alternativly create some JS full stack data science apps including drags and drops and some Python Backend, descriptive and predictive maths are also possible in any form ( Etl, B.I etc..), supply chain metrics etc...
 This is my 2021 project,engineered, stylized and coded by me in vueJs-Python-Nosql, a graphical mathematical solvers interface and solver ( This is a preview meaning It's basical linear):
 https://www.solvgraph.com
