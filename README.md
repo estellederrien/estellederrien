@@ -26,6 +26,9 @@ New : 2026-2027
 
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img> [Machine learning](https://github.com/estellederrien/python-optimizations/blob/main/07.%20Machine%20learning/01.%20Machine%20learning%20basics%20in%20python.ipynb)
 
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img> [Factories, mines and agricultural various engineerings.ipynb](https://github.com/estellederrien/python-optimizations/blob/main/10.%20Industry%2C%20Mines%20and%20Agricultural/01.%20Factory%2C%20mines%20and%20agricultural%20various%20engineerings.ipynb)
+
+
 
 ![alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
 
