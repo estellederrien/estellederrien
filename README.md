@@ -22,6 +22,10 @@ Read Some of my actual 2026 studies (Python notebooks):
 
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img> [Optimizations under uncertainty](https://github.com/estellederrien/python-optimizations/blob/main/02.%20Optimizations/07.%20Optimizations%20under%20uncertainty.ipynb)
 
+New : 2026-2027
+
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" width="20" height="20"></img> [Machine learning](https://github.com/estellederrien/python-optimizations/blob/main/07.%20Machine%20learning/01.%20Machine%20learning%20basics%20in%20python.ipynb)
+
 
 ![alt text](http://www.solvgraph.com/static/img/output-onlinepngtools.213abb5a.png)
 
