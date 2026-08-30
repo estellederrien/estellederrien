@@ -61,7 +61,7 @@ KOREA:
 
 29 08 2026 : Interesting publication :
 https://github.com/jorsacademy/decision-intelligence-in-action
-29 08 2026 : Devant le manque d'opportunités d'emploi malgré mes diplômes, j'utilise désormais uniquement la langue Anglaise.
+
 
 
 
