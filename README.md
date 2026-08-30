@@ -62,7 +62,7 @@ KOREA:
 29 08 2026 : Interesting publication :
 https://github.com/jorsacademy/decision-intelligence-in-action
 29 08 2026 : Devant le manque d'opportunités d'emploi malgré mes diplômes, j'utilise désormais uniquement la langue Anglaise.
-Etudes des livres But mesures Physiques et DCG en python, avec l'assistance de l'AI.
+Etudes des livres But mesures Physiques et DCG ( Surtout le contrôle de gestion) en python, avec l'assistance de l'AI, pour 2027 ( Dunod, Foucher).
 
 
 
