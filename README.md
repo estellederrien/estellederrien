@@ -46,7 +46,7 @@ New : 2026-2027
 
 ### <b>Latest news :</b>
 
-2026-2027 : Now actively looking for onsite jobs, and restricting my applications to only 3 places, please trust, national companies and salary prefered, please help me if you like my profile ! : 
+2026-2027 : Now actively looking for onsite jobs, and restricting my applications to only 3 places, please trust, national companies and salary prefered, please help me if you like my profile, definitive state required. : 
 
 CAMBODIA : 
 សួស្តី, ខ្ញុំចង់ដាក់ពាក្យសុំធ្វើការងារជាមួយក្រុមហ៊ុនកម្ពុជាក្នុងប្រទេសកម្ពុជា ហើយប្រសិនបើអាចធ្វើទៅបាន ខ្ញុំចង់ទទួលបានសិទ្ធិស្នាក់នៅអចិន្ត្រៃយ៍ផងដែរ ដោយសារតែខ្ញុំមិនអាចបន្តរស់នៅក្នុងកន្លែងដែលខ្ញុំបានកើតនោះបានទេ។ សូមអរគុណចំពោះជំនួយរបស់អ្នក។ សូមអរគុណ។
