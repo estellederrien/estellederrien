@@ -46,7 +46,6 @@ New : 2026-2027
 
 ### <b>Latest news :</b>
 
-Bonjour, la traduction des documents vers le Français étant tellement facile et instantanée avec ChatGpt désormais, que je réalise tous mes notebooks en Anglais.
 
 2026-2027 : Now actively looking for onsite jobs, and restricting my applications to only 3 places, please trust, national companies and salary prefered, please help me if you like my profile, definitive state required. : 
 
