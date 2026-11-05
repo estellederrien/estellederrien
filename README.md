@@ -66,7 +66,6 @@ KOREA:
 29 08 2026 : Interesting publication :
 https://github.com/jorsacademy/decision-intelligence-in-action
 
-Bonjour, mes notebooks peuvent être traduits avec ChatGpt
 
 
 
