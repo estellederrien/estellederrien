@@ -66,6 +66,8 @@ KOREA:
 29 08 2026 : Interesting publication :
 https://github.com/jorsacademy/decision-intelligence-in-action
 
+Bonjour, il est possible de traduire tous les notebooks Python , Méthode : 1. Exporter au format PDF, 2. Traduire dans Google Chrome. 
+
 
 
 
