@@ -46,7 +46,8 @@ New : 2026-2027
 
 ### <b>Latest news :</b>
 
-Bonjour, il est possible de traduire tous les notebooks Python , Méthode : 1. Exporter le notebook au format PDF, 2. Traduire dans Google Chrome en cliquant droit.  
+Bonjour, il est possible de traduire tous les notebooks Python , Méthode : 1. Exporter le notebook au format PDF, 2. Traduire dans Google Chrome en cliquant droit.  Suite à l'avènement de l'IA, 
+l'étude de la recherche opérationnelle ou d'autres domaines devient assez simplifiée.
 
 
 2026-2027 : Now actively looking for onsite jobs, and restricting my applications to only 3 places, please trust, national companies and salary prefered, please help me if you like my profile, definitive state required. : 
