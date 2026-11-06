@@ -46,6 +46,8 @@ New : 2026-2027
 
 ### <b>Latest news :</b>
 
+Bonjour, il est possible de traduire tous les notebooks Python , Méthode : 1. Exporter le notebook au format PDF, 2. Traduire dans Google Chrome en cliquant droit.  
+
 
 2026-2027 : Now actively looking for onsite jobs, and restricting my applications to only 3 places, please trust, national companies and salary prefered, please help me if you like my profile, definitive state required. : 
 
@@ -66,7 +68,6 @@ KOREA:
 29 08 2026 : Interesting publication :
 https://github.com/jorsacademy/decision-intelligence-in-action
 
-Bonjour, il est possible de traduire tous les notebooks Python , Méthode : 1. Exporter au format PDF, 2. Traduire dans Google Chrome. 
 
 
 
