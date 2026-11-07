@@ -46,8 +46,6 @@ New : 2026-2027
 
 ### <b>Latest news :</b>
 
-06 11 2026 : Bonjour, il est possible de traduire tous les notebooks Python , Méthode : 1. Exporter le notebook au format PDF, 2. Traduire dans Google Chrome en cliquant droit.  Suite à l'avènement de l'IA, 
-l'étude de la recherche opérationnelle ou d'autres domaines devient assez simplifiée, et le besoin de créer des notebooks est moindre et se résume souvent à du "Copié Collé ", il faut néanmoins contrôler les formules et posséder les connaissances au préalable. Concernant la recherche opérationnelle, il est évident que les domaines à maitriser sont l'optimisation sous incertitude en injectant des lois de probabilités dans les optimisations et les optimisations quadratiques, afin de tenter de coller au monde réel, mais j'aime bien le linéaire, c'est très "brut", comme résultat, ça sert à "dégrossir" un problème d'optimisation de production et avoir une première approche.
 
 
 2026-2027 : Now actively looking for onsite jobs, and restricting my applications to only 3 places, please trust, national companies and salary prefered, please help me if you like my profile, definitive state required. : 
