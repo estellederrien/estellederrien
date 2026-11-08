@@ -46,7 +46,7 @@ New : 2026-2027
 
 ### <b>Latest news :</b>
 
-
+La méthode pour traduire un notebook est 1. Exporter au format pdf 2. cliquer droit sur traduire dans chrome
 
 2026-2027 : Now actively looking for onsite jobs, and restricting my applications to only 3 places, please trust, national companies and salary prefered, please help me if you like my profile, definitive state required. : 
 
